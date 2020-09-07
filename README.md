@@ -20,7 +20,6 @@ Ramen is one of the best dishes in hisrtory of mankind. To my delight I was able
 The data set is quite clear. There are six dimensions (id, url, brand, variety, style and country) and only one measure: stars (which represents the ranking of the ramen). Of the six dimensions four are relevant to the analysis.
 
 ## 3. Analysis
-**
 **1. Country Mapping**
 - Counting ramen units and mapping them on the world map with the built in function of Tableau.
 - Exchanging  the circle shape for a ramen icon, which was downloaded from the web, cropped and put in the shape folder.
@@ -52,5 +51,3 @@ The data set is quite clear. There are six dimensions (id, url, brand, variety, 
 - To identify the best ramen you can get in Germany a five index rating was included.
 - The ramen name was manually copied from the URL link in the data set and the field was manually changed.
 - All ramen are from the same company Nissin.
-- 
-
